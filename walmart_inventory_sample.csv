@@ -1,0 +1,11 @@
+Product_ID,Product_Name,In_Stock_Quantity,Backroom_Stock,Shelf_Stock
+MILK001,Whole Milk (1L),35,25,10
+BRED001,White Bread Loaf,20,5,15
+EGGS001,Dozen Eggs,50,40,10
+SOAP001,Bath Soap (Pack),60,20,40
+RICE001,Basmati Rice (5kg),45,15,30
+OIL001,Sunflower Oil (1L),70,50,20
+COLA001,Cola Drink (1L),10,9,1
+CHOC001,Chocolate Bar,80,30,50
+SHAM001,Shampoo (250ml),25,5,20
+SUGR001,Sugar (2kg),40,10,30
